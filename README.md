@@ -26,6 +26,6 @@ For Neural Network, we didn't use feature selection because it was lowering down
 ## Conclusion 
 
 The final results on the test set for all the above three models are:
-Naive Bayes - 75.40%
-Neural Network - 74.33%
-Support Vector Machine - 75.05%
+* Naive Bayes - 75.40%
+* Neural Network - 74.33%
+* Support Vector Machine - 75.05%
